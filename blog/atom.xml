@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://anshulrgoyal.github.io/blog</id>
+    <title>Anshul Goyal Blog</title>
+    <updated>2020-08-21T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://anshulrgoyal.github.io/blog"/>
+    <subtitle>Anshul Goyal Blog</subtitle>
+    <icon>https://anshulrgoyal.github.io/img/anshul.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[MLH Fellowship: A new way of learning]]></title>
+        <id>mlh-fellowship</id>
+        <link href="https://anshulrgoyal.github.io/anshulrgoyal/blog/mlh-fellowship"/>
+        <updated>2020-08-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MLH fellowship is a program run by Major League Hacking. It helps students to contribute to open-source by providing a mentor. Fellows are in regular contact with Maintainers. A small education stipend is also provided.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Documentation using Docusaurus]]></title>
+        <id>easy-documentation-docusaurus</id>
+        <link href="https://anshulrgoyal.github.io/anshulrgoyal/blog/easy-documentation-docusaurus"/>
+        <updated>2020-08-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article was originally published here]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The state of Rust: Authorization/authentication libraries]]></title>
+        <id>rust-auth-lib</id>
+        <link href="https://anshulrgoyal.github.io/anshulrgoyal/blog/rust-auth-lib"/>
+        <updated>2020-07-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article was originally published here]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Auth Libraries]]></title>
+        <id>auth-table</id>
+        <link href="https://anshulrgoyal.github.io/anshulrgoyal/blog/auth-table"/>
+        <updated>2020-07-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[| Name               | Production Ready                       | Usage                                                                                                                                                                                                                                                                                                                                                                    | Type                              | Async support | Negatives                                                                                         | Remark                                                                                           | maintenance          | GitURL                                            | Crates URL                                        | URL                                                        |]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All in one guide for creating a killer API with Strapi]]></title>
+        <id>strapi</id>
+        <link href="https://anshulrgoyal.github.io/anshulrgoyal/blog/strapi"/>
+        <updated>2020-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article was originally published here]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A beginners guide to gRPC with Rust]]></title>
+        <id>grpc-rust</id>
+        <link href="https://anshulrgoyal.github.io/anshulrgoyal/blog/grpc-rust"/>
+        <updated>2020-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Table of Contents]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust and Node.js: A match made in heaven]]></title>
+        <id>nodejs-rust-match</id>
+        <link href="https://anshulrgoyal.github.io/anshulrgoyal/blog/nodejs-rust-match"/>
+        <updated>2020-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Table of Contents]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Forms In React With Formik And Yup]]></title>
+        <id>react-formik</id>
+        <link href="https://anshulrgoyal.github.io/anshulrgoyal/blog/react-formik"/>
+        <updated>2019-01-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Forms are a very important part of any application. Forms are used everywhere from login to search.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scraping with NodeJS and Cheerio]]></title>
+        <id>scrapping-nodejs</id>
+        <link href="https://anshulrgoyal.github.io/anshulrgoyal/blog/scrapping-nodejs"/>
+        <updated>2019-01-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Everybody says that python is best for scraping but I always wonder why we don't use NodeJs for Scraping?]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting A React Project From Scratch Using Babel And Webpack]]></title>
+        <id>react-setup</id>
+        <link href="https://anshulrgoyal.github.io/anshulrgoyal/blog/react-setup"/>
+        <updated>2019-01-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are many tools for getting a boilerplate code generated available for reactjs. The most popular tool used by many developers is create-react-app, which comes with many configuration options.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide for JWT Authentication Using Node.js and Express]]></title>
+        <id>jwt-auth</id>
+        <link href="https://anshulrgoyal.github.io/anshulrgoyal/blog/jwt-auth"/>
+        <updated>2019-01-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+    </entry>
+</feed>
