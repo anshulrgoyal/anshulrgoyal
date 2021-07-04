@@ -2,11 +2,25 @@
 <rss version="2.0">
     <channel>
         <title>Anshul Goyal Blog</title>
-        <link>https://anshulrgoyal.github.io/blog</link>
+        <link>https://anshulrgoyal.github.io/anshulrgoyal/blog</link>
         <description>Anshul Goyal Blog</description>
-        <lastBuildDate>Fri, 21 Aug 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How to create a Deno plugin in Rust]]></title>
+            <link>https://anshulrgoyal.github.io/anshulrgoyal/blog/deno-plugin</link>
+            <guid>deno-plugin</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Deno is a new JavaScript runtime built with Rust and V8 that enables you to run JavaScript outside the browser. Deno is more secure than Node.js because it limits network and file system access by default.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[An intro to macros in rust]]></title>
+            <link>https://anshulrgoyal.github.io/anshulrgoyal/blog/macro-rust</link>
+            <guid>macro-rust</guid>
+            <pubDate>Thu, 04 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rust has an excellent support for macros. Macros are a way of writing code that writes other code, which is known as metaprogramming. Macros provide functionality similar to functions, without the runtime cost associated with functions. Since macros are expanded during the compile time so some compile-time costs are associated with macros. Macros in rust are very different from the ones used in C. Rust macros are applied to the token tree whereas C macros are text substitution.]]></description>
+        </item>
         <item>
             <title><![CDATA[MLH Fellowship: A new way of learning]]></title>
             <link>https://anshulrgoyal.github.io/anshulrgoyal/blog/mlh-fellowship</link>
@@ -47,7 +61,7 @@
             <link>https://anshulrgoyal.github.io/anshulrgoyal/blog/grpc-rust</link>
             <guid>grpc-rust</guid>
             <pubDate>Fri, 24 Apr 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Table of Contents]]></description>
+            <description><![CDATA[1. Introduction]]></description>
         </item>
         <item>
             <title><![CDATA[Rust and Node.js: A match made in heaven]]></title>
@@ -82,7 +96,7 @@
             <link>https://anshulrgoyal.github.io/anshulrgoyal/blog/jwt-auth</link>
             <guid>jwt-auth</guid>
             <pubDate>Mon, 14 Jan 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Introduction]]></description>
+            <description><![CDATA[Traditional authentication strategy makes use of sessions and cookies, but scaling these solutions is very difficult — as some kind of state is maintained by the server. JWT, on the other hand, provides a stateless solution for authentication, and stateless applications are pretty easy to scale.]]></description>
         </item>
     </channel>
 </rss>

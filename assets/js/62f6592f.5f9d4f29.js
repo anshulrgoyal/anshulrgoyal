@@ -1,0 +1,1 @@
+(self.webpackChunkanshulrgoyal=self.webpackChunkanshulrgoyal||[]).push([[6950],{3388:function(l){"use strict";l.exports=JSON.parse('{"permalink":"/anshulrgoyal/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":13,"previousPage":"/anshulrgoyal/blog","nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
