@@ -25,12 +25,6 @@ module.exports = {
       title: "Anshul Goyal",
       items: [
         {
-          to: "resume",
-          activeBasePath: "resume",
-          label: "Resume",
-          position: "left",
-        },
-        {
           to: "projects",
           activeBasePath: "projects",
           label: "Conributions",
@@ -50,10 +44,6 @@ module.exports = {
         {
           title: "About",
           items: [
-            {
-              label: "Resume",
-              to: "resume",
-            },
             {
               label: "Contributions",
               to: "projects",

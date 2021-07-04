@@ -5,7 +5,6 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
-import cv from "./cv.pdf";
 
 const features = [
   {
@@ -66,16 +65,15 @@ function Home() {
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
-            <a
+            <Link
               className={clsx(
                 "button button--outline button--secondary button--lg",
                 styles.getStarted
               )}
-              target="_blank"
-              href={cv}
+              to="blog"
             >
-              Download Resume
-            </a>
+             My Blog
+            </Link>
           </div>
         </div>
       </header>
